@@ -1,5 +1,6 @@
 # Olá, Eu sou Vitor
 🎩 Me chamo Vitor [r0t1v](https://github.com/r0t1v/r0t1v) Gabriel, conhecido tambem como [dikdama](https://github.com/dikdama).
+🏆 	🏆
 - 👋 Hi, I’m @r0t1v
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
