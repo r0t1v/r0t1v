@@ -27,9 +27,9 @@
 ## Hello, I am Vitor 
 🎩 My name is Vitor [r0t1v](https://github.com/r0t1v/r0t1v) Gabriel, also known as [dikdama](https://github.com/dikdama).
 - 🎓 I am an academic of computing engineering at the [Federal University of Pará](http://www.facompascostanhal.ufpa.br/)
-- 👨💻 I am a programmer and contributor to the web community in several programming languages
-- I like to solve problems, so if you prescribe help you can count on me, even to talk hahahaha
-- Competitive and enthusiast of [HackerRank](https://www.hackerrank.com/v1t0rm3nd3s)
+- 👨‍💻 I am a programmer and contributor to the web community in several programming languages
+- 👨‍🏫 I like to solve problems, so if you prescribe help you can count on me, even to talk hahahaha
+- 🏆 Competitive and enthusiast of [HackerRank](https://www.hackerrank.com/v1t0rm3nd3s)
 - 🎮 Gamer and Otaku in spare time
 - 🧙 aspiring full-stack programmer
 > The world is perfect, we only need to accept that we, while humans,
