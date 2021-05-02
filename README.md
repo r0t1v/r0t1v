@@ -20,7 +20,10 @@
 > Afinal eu e você estaremos rindo no final, quando a tela de créditos subir, e
 > nos recordamos dos momentos que passamos.
 
-<h3 align="center">👥 Socials</h3>
+<h3 align="center">👥 Sociais</h3>
+<p align="center">
+<a href="linkedin.com/in/mr-vitor-g-dantas" target="blank"><img src="https://simpleicons.org/icons/linkedin.svg" margin=20/></a>
+</p>
 
 <p align="left">
   	<img alt="EN-US" src="https://i.imgur.com/QqtGoQ4.gif" width="30" height="20" />
