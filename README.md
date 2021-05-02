@@ -22,9 +22,11 @@
 
 <h3 align="center">👥 Sociais</h3>
 <p align="center">
-<a href="linkedin.com/in/mr-vitor-g-dantas" target="blank"><img src="https://simpleicons.org/icons/linkedin.svg" style=" fill: white" width="35px" height="35px" /></a>
-</p>
-
+	<a href="linkedin.com/in/mr-vitor-g-dantas" target="blank">
+	<svg xmlns="https://simpleicons.org/icons/linkedin.svg" version="1.1" viewBox="0 0 300 300">
+  	<polygon points="..." style="fill:white; stroke: #000; stroke-width: 5;" />
+	</svg>
+	</a>
 <p align="left">
   	<img alt="EN-US" src="https://i.imgur.com/QqtGoQ4.gif" width="30" height="20" />
 </p>
