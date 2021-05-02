@@ -22,7 +22,7 @@
 
 <h3 align="center">👥 Sociais</h3>
 <p align="center">
-<a href="linkedin.com/in/mr-vitor-g-dantas" target="blank"><img src="https://simpleicons.org/icons/linkedin.svg" margin=20/></a>
+<a href="linkedin.com/in/mr-vitor-g-dantas" target="blank"><img src="https://simpleicons.org/icons/linkedin.svg" style=" fill: white" width="35px" height="35px" /></a>
 </p>
 
 <p align="left">
