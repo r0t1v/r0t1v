@@ -20,6 +20,8 @@
 > Afinal eu e você estaremos rindo no final, quando a tela de créditos subir, e
 > nos recordamos dos momentos que passamos.
 
+<h3 align="center">&127760; Socials</h3>
+
 <p align="left">
   	<img alt="EN-US" src="https://i.imgur.com/QqtGoQ4.gif" width="30" height="20" />
 </p>
