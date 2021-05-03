@@ -22,12 +22,12 @@
 
 <h3 align="center">👥 Sociais</h3>
 <p align="center">
-<a href="linkedin.com/in/mr-vitor-g-dantas" target="blank"><img src="https://imgur.com/OuAZ0Bj"></a>
-<a href="instagram.com/vithorbiel" target="blank"><img src="https://imgur.com/mq7u9pL"></a>
-<a href="twitter.com/vi_Throl" target="blank"><img src="https://imgur.com/zGYTikF"></a>
-<a href="twitch.tv/dikdama" target="blank"><img src="https://imgur.com/gVmbkc5"></a>
-<a href="mailto:vitorgmendes99@gmail.com" target="blank"><img src="https://imgur.com/kIzW3hz"></a>
-<a href="codepen.com/r0t1vdev" target="blank"><img src="https://imgur.com/TYEPxUR"></a>
+<a href="linkedin.com/in/mr-vitor-g-dantas" target="blank"><img src="https://imgur.com/OuAZ0Bj.png"></a>
+<a href="instagram.com/vithorbiel" target="blank"><img src="https://imgur.com/mq7u9pL.png"></a>
+<a href="twitter.com/vi_Throl" target="blank"><img src="https://imgur.com/zGYTikF.png"></a>
+<a href="twitch.tv/dikdama" target="blank"><img src="https://imgur.com/gVmbkc5.png"></a>
+<a href="mailto:vitorgmendes99@gmail.com" target="blank"><img src="https://imgur.com/kIzW3hz.png"></a>
+<a href="codepen.com/r0t1vdev" target="blank"><img src="https://imgur.com/TYEPxUR.png"></a>
 
 <h3 align="center">😎 Maestrias</h3>
 
@@ -53,6 +53,17 @@
 > Then Platine this with glamor, always expressing happiness at any stage.
 > After all you and I will be laughing at the end when the credits screen rises, and
 > We remember the moments we spent. 
+
+<h3 align="center">👥 Socials</h3>
+<p align="center">
+<a href="linkedin.com/in/mr-vitor-g-dantas" target="blank"><img src="https://imgur.com/OuAZ0Bj.png"></a>
+<a href="instagram.com/vithorbiel" target="blank"><img src="https://imgur.com/mq7u9pL.png"></a>
+<a href="twitter.com/vi_Throl" target="blank"><img src="https://imgur.com/zGYTikF.png"></a>
+<a href="twitch.tv/dikdama" target="blank"><img src="https://imgur.com/gVmbkc5.png"></a>
+<a href="mailto:vitorgmendes99@gmail.com" target="blank"><img src="https://imgur.com/kIzW3hz.png"></a>
+<a href="codepen.com/r0t1vdev" target="blank"><img src="https://imgur.com/TYEPxUR.png"></a>
+
+<h3 align="center">😎 Masters</h3>
 <!---
 r0t1v/r0t1v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
