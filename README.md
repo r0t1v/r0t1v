@@ -22,16 +22,17 @@
 
 <h3 align="center">👥 Sociais</h3>
 <p align="center">
-<a href="linkedin.com/in/mr-vitor-g-dantas"><img src="https://imgur.com/OuAZ0Bj.png" margin="20px"></a>
-<a href="instagram.com/vithorbiel"><img src="https://imgur.com/mq7u9pL.png"></a>
-<a href="twitter.com/vi_Throl"><img src="https://imgur.com/zGYTikF.png"></a>
-<a href="twitch.tv/dikdama"><img src="https://imgur.com/gVmbkc5.png"></a>
-<a href="mailto:vitorgmendes99@gmail.com"><img src="https://imgur.com/kIzW3hz.png"></a>
-<a href="codepen.com/r0t1vdev"><img src="https://imgur.com/TYEPxUR.png"></a>
+<a href="https://www.linkedin.com/in/mr-vitor-g-dantas"><img src="https://imgur.com/OuAZ0Bj.png"></a>
+<a href="https://www.instagram.com/vithorbiel"><img src="https://imgur.com/mq7u9pL.png"></a>
+<a href="https://www.twitter.com/vi_Throl"><img src="https://imgur.com/zGYTikF.png"></a>
+<a href="https://www.twitch.tv/dikdama"><img src="https://imgur.com/gVmbkc5.png"></a>
+<a href="https://www.mailto:vitorgmendes99@gmail.com"><img src="https://imgur.com/kIzW3hz.png"></a>
+<a href="https://www.codepen.com/r0t1vdev"><img src="https://imgur.com/TYEPxUR.png"></a>
+</p>
 
 <h3 align="center">😎 Maestrias</h3>
 
-</p>
+
 <p align="left">
   	<img alt="EN-US" src="https://i.imgur.com/QqtGoQ4.gif" width="30" height="20" />
 </p>
@@ -56,12 +57,13 @@
 
 <h3 align="center">👥 Socials</h3>
 <p align="center">
-<a href="linkedin.com/in/mr-vitor-g-dantas" target="blank"><img src="https://imgur.com/OuAZ0Bj.png"></a>
-<a href="instagram.com/vithorbiel" target="blank"><img src="https://imgur.com/mq7u9pL.png"></a>
-<a href="twitter.com/vi_Throl" target="blank"><img src="https://imgur.com/zGYTikF.png"></a>
-<a href="twitch.tv/dikdama" target="blank"><img src="https://imgur.com/gVmbkc5.png"></a>
-<a href="mailto:vitorgmendes99@gmail.com" target="blank"><img src="https://imgur.com/kIzW3hz.png"></a>
-<a href="codepen.com/r0t1vdev" target="blank"><img src="https://imgur.com/TYEPxUR.png"></a>
+<a href="https://www.linkedin.com/in/mr-vitor-g-dantas"><img src="https://imgur.com/OuAZ0Bj.png"></a>
+<a href="https://www.instagram.com/vithorbiel"><img src="https://imgur.com/mq7u9pL.png"></a>
+<a href="https://www.twitter.com/vi_Throl"><img src="https://imgur.com/zGYTikF.png"></a>
+<a href="https://www.twitch.tv/dikdama"><img src="https://imgur.com/gVmbkc5.png"></a>
+<a href="https://www.mailto:vitorgmendes99@gmail.com"><img src="https://imgur.com/kIzW3hz.png"></a>
+<a href="https://www.codepen.com/r0t1vdev"><img src="https://imgur.com/TYEPxUR.png"></a>
+</p>
 
 <h3 align="center">😎 Masters</h3>
 <!---
