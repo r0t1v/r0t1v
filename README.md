@@ -21,13 +21,13 @@
 > nos recordamos dos momentos que passamos.
 
 <h3 align="center">👥 Sociais</h3>
-<p align="center" style="padding-right: 15px">
-<a href="linkedin.com/in/mr-vitor-g-dantas" target="blank"><img src="https://imgur.com/OuAZ0Bj.png"></a>
-<a href="instagram.com/vithorbiel" target="blank"><img src="https://imgur.com/mq7u9pL.png"></a>
-<a href="twitter.com/vi_Throl" target="blank"><img src="https://imgur.com/zGYTikF.png"></a>
-<a href="twitch.tv/dikdama" target="blank"><img src="https://imgur.com/gVmbkc5.png"></a>
-<a href="mailto:vitorgmendes99@gmail.com" target="blank"><img src="https://imgur.com/kIzW3hz.png"></a>
-<a href="codepen.com/r0t1vdev" target="blank"><img src="https://imgur.com/TYEPxUR.png"></a>
+<p align="center">
+<a href="linkedin.com/in/mr-vitor-g-dantas"><img src="https://imgur.com/OuAZ0Bj.png" margin="20px"></a>
+<a href="instagram.com/vithorbiel"><img src="https://imgur.com/mq7u9pL.png"></a>
+<a href="twitter.com/vi_Throl"><img src="https://imgur.com/zGYTikF.png"></a>
+<a href="twitch.tv/dikdama"><img src="https://imgur.com/gVmbkc5.png"></a>
+<a href="mailto:vitorgmendes99@gmail.com"><img src="https://imgur.com/kIzW3hz.png"></a>
+<a href="codepen.com/r0t1vdev"><img src="https://imgur.com/TYEPxUR.png"></a>
 
 <h3 align="center">😎 Maestrias</h3>
 
