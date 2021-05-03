@@ -22,11 +22,16 @@
 
 <h3 align="center">👥 Sociais</h3>
 <p align="center">
-	<a href="linkedin.com/in/mr-vitor-g-dantas" target="blank">
-	<svg xmlns="https://simpleicons.org/icons/linkedin.svg" version="1.1" viewBox="0 0 300 300">
-  	<polygon points="..." style="fill:white; stroke: #000; stroke-width: 5;" />
-	</svg>
-	</a>
+<a href="linkedin.com/in/mr-vitor-g-dantas" target="blank"><img src="https://imgur.com/OuAZ0Bj"></a>
+<a href="instagram.com/vithorbiel" target="blank"><img src="https://imgur.com/mq7u9pL"></a>
+<a href="twitter.com/vi_Throl" target="blank"><img src="https://imgur.com/zGYTikF"></a>
+<a href="twitch.tv/dikdama" target="blank"><img src="https://imgur.com/gVmbkc5"></a>
+<a href="mailto:vitorgmendes99@gmail.com" target="blank"><img src="https://imgur.com/kIzW3hz"></a>
+<a href="codepen.com/r0t1vdev" target="blank"><img src="https://imgur.com/TYEPxUR"></a>
+
+<h3 align="center">😎 Maestrias</h3>
+
+</p>
 <p align="left">
   	<img alt="EN-US" src="https://i.imgur.com/QqtGoQ4.gif" width="30" height="20" />
 </p>
