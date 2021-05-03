@@ -33,7 +33,8 @@
 
 <hr>
 <h3 align="center">😎 Maestrias</h3>
-
+<p align="center">
+</p>
 
 <p align="left">
   	<img alt="EN-US" src="https://i.imgur.com/QqtGoQ4.gif" width="30" height="20" />
@@ -60,7 +61,7 @@
 <hr>
 <h3 align="center">👥 Socials</h3>
 <p align="center">
-<a href="www.linkedin.com/in/mr-vitor-g-dantas"><img src="https://imgur.com/OuAZ0Bj.png"></a>
+<a href="https://www.linkedin.com/in/mr-vitor-g-dantas"><img src="https://imgur.com/OuAZ0Bj.png"></a>
 <a href="https://www.instagram.com/vithorbiel"><img src="https://imgur.com/mq7u9pL.png"></a>
 <a href="https://www.twitter.com/vi_Throl"><img src="https://imgur.com/zGYTikF.png"></a>
 <a href="https://www.twitch.tv/dikdama"><img src="https://imgur.com/gVmbkc5.png"></a>
@@ -70,6 +71,8 @@
 
 <hr>
 <h3 align="center">😎 Masters</h3>
+<p align="center">
+</p>
 <!---
 r0t1v/r0t1v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
