@@ -21,7 +21,7 @@
 > nos recordamos dos momentos que passamos.
 
 <h3 align="center">👥 Sociais</h3>
-<p align="center">
+<p align="center" style="padding-right: 15px">
 <a href="linkedin.com/in/mr-vitor-g-dantas" target="blank"><img src="https://imgur.com/OuAZ0Bj.png"></a>
 <a href="instagram.com/vithorbiel" target="blank"><img src="https://imgur.com/mq7u9pL.png"></a>
 <a href="twitter.com/vi_Throl" target="blank"><img src="https://imgur.com/zGYTikF.png"></a>
