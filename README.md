@@ -20,6 +20,7 @@
 > Afinal eu e você estaremos rindo no final, quando a tela de créditos subir, e
 > nos recordamos dos momentos que passamos.
 
+<hr>
 <h3 align="center">👥 Sociais</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/mr-vitor-g-dantas"><img src="https://imgur.com/OuAZ0Bj.png"></a>
@@ -30,6 +31,7 @@
 <a href="https://www.codepen.com/r0t1vdev"><img src="https://imgur.com/TYEPxUR.png"></a>
 </p>
 
+<hr>
 <h3 align="center">😎 Maestrias</h3>
 
 
@@ -55,9 +57,10 @@
 > After all you and I will be laughing at the end when the credits screen rises, and
 > We remember the moments we spent. 
 
+<hr>
 <h3 align="center">👥 Socials</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/mr-vitor-g-dantas"><img src="https://imgur.com/OuAZ0Bj.png"></a>
+<a href="www.linkedin.com/in/mr-vitor-g-dantas"><img src="https://imgur.com/OuAZ0Bj.png"></a>
 <a href="https://www.instagram.com/vithorbiel"><img src="https://imgur.com/mq7u9pL.png"></a>
 <a href="https://www.twitter.com/vi_Throl"><img src="https://imgur.com/zGYTikF.png"></a>
 <a href="https://www.twitch.tv/dikdama"><img src="https://imgur.com/gVmbkc5.png"></a>
@@ -65,6 +68,7 @@
 <a href="https://www.codepen.com/r0t1vdev"><img src="https://imgur.com/TYEPxUR.png"></a>
 </p>
 
+<hr>
 <h3 align="center">😎 Masters</h3>
 <!---
 r0t1v/r0t1v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
