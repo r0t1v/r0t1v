@@ -35,17 +35,17 @@
 <hr>
 <h3 align="center">😎 Maestrias</h3>
 <p align="center">
-	<img src="https://imgur.com/DliknEf.png">
-	<img src="https://imgur.com/RdzlNBm.png">
-	<img src="https://imgur.com/sGk8JrE.png">
-	<img src="https://imgur.com/XNgnzER.png">
-	<img src="https://imgur.com/Z5Km1Kc.png">
-	<img src="https://imgur.com/ncZRKI6.png">
-	<img src="https://imgur.com/bbIZ0xp.png">
-	<img src="https://imgur.com/iJEgNLT.png">
-	<img src="https://imgur.com/Xd6WVuB.png">
-	<img src="https://imgur.com/XcQs4Uh.png">
-	<img src="https://imgur.com/tsBqzoz.png">
+	<a href="#C"><img src="https://imgur.com/DliknEf.png"></a>
+	<a href="#Cplusplus"><img src="https://imgur.com/RdzlNBm.png"></a>
+	<a href="#Csharp"><img src="https://imgur.com/sGk8JrE.png"></a>
+	<a href="#dotNET"><img src="https://imgur.com/XNgnzER.png"></a>
+	<a href="#Java"><img src="https://imgur.com/Z5Km1Kc.png"></a>
+	<a href="#Python"><img src="https://imgur.com/ncZRKI6.png"></a>
+	<a href="#HTML5"><img src="https://imgur.com/bbIZ0xp.png"></a>
+	<a href="#CSS3"><img src="https://imgur.com/iJEgNLT.png"></a>
+	<a href="#JavaScript"><img src="https://imgur.com/Xd6WVuB.png"></a>
+	<a href="#PHP"><img src="https://imgur.com/XcQs4Uh.png"></a>
+	<a href="#SQL"><img src="https://imgur.com/tsBqzoz.png"></a>
 </p>
 
 <hr>
@@ -90,7 +90,23 @@
 <hr>
 <h3 align="center">😎 Masters</h3>
 <p align="center">
+	<a href="#C"><img src="https://imgur.com/DliknEf.png"></a>
+	<a href="#Cplusplus"><img src="https://imgur.com/RdzlNBm.png"></a>
+	<a href="#Csharp"><img src="https://imgur.com/sGk8JrE.png"></a>
+	<a href="#dotNET"><img src="https://imgur.com/XNgnzER.png"></a>
+	<a href="#Java"><img src="https://imgur.com/Z5Km1Kc.png"></a>
+	<a href="#Python"><img src="https://imgur.com/ncZRKI6.png"></a>
+	<a href="#HTML5"><img src="https://imgur.com/bbIZ0xp.png"></a>
+	<a href="#CSS3"><img src="https://imgur.com/iJEgNLT.png"></a>
+	<a href="#JavaScript"><img src="https://imgur.com/Xd6WVuB.png"></a>
+	<a href="#PHP"><img src="https://imgur.com/XcQs4Uh.png"></a>
+	<a href="#SQL"><img src="https://imgur.com/tsBqzoz.png"></a>
+</p>
 
+<hr>
+<h3 align="center">✨ Experiences</h3>
+<p align="center">
+	
 </p>
 <!---
 r0t1v/r0t1v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
