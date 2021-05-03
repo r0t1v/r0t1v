@@ -107,6 +107,7 @@
 <a href="https://www.twitch.tv/dikdama"><img src="https://imgur.com/gVmbkc5.png"></a>
 <a href="mailto:vitorgmendes99@gmail.com"><img src="https://imgur.com/kIzW3hz.png"></a>
 <a href="https://www.codepen.com/r0t1vdev"><img src="https://imgur.com/TYEPxUR.png"></a>
+<a href="https://www.hackerrank.com/V1t0rm3nd3S"><img src="https://imgur.com/A9di4o0.png"></a>
 </p>
 
 <hr>
