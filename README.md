@@ -27,13 +27,31 @@
 <a href="https://www.instagram.com/vithorbiel"><img src="https://imgur.com/mq7u9pL.png"></a>
 <a href="https://www.twitter.com/vi_Throl"><img src="https://imgur.com/zGYTikF.png"></a>
 <a href="https://www.twitch.tv/dikdama"><img src="https://imgur.com/gVmbkc5.png"></a>
-<a href="https://www.mailto:vitorgmendes99@gmail.com"><img src="https://imgur.com/kIzW3hz.png"></a>
+<a href="mailto:vitorgmendes99@gmail.com"><img src="https://imgur.com/kIzW3hz.png"></a>
 <a href="https://www.codepen.com/r0t1vdev"><img src="https://imgur.com/TYEPxUR.png"></a>
+<a href="https://www.hackerrank.com/V1t0rm3nd3S"><img src="https://imgur.com/A9di4o0.png"></a>
 </p>
 
 <hr>
 <h3 align="center">😎 Maestrias</h3>
 <p align="center">
+	<img src="https://imgur.com/DliknEf.png">
+	<img src="https://imgur.com/RdzlNBm.png">
+	<img src="https://imgur.com/sGk8JrE.png">
+	<img src="https://imgur.com/XNgnzER.png">
+	<img src="https://imgur.com/Z5Km1Kc.png">
+	<img src="https://imgur.com/ncZRKI6.png">
+	<img src="https://imgur.com/bbIZ0xp.png">
+	<img src="https://imgur.com/iJEgNLT.png">
+	<img src="https://imgur.com/Xd6WVuB.png">
+	<img src="https://imgur.com/XcQs4Uh.png">
+	<img src="https://imgur.com/tsBqzoz.png">
+</p>
+
+<hr>
+<h3 align="center">✨ Experiências</h3>
+<p align="center">
+	
 </p>
 
 <p align="left">
@@ -65,13 +83,14 @@
 <a href="https://www.instagram.com/vithorbiel"><img src="https://imgur.com/mq7u9pL.png"></a>
 <a href="https://www.twitter.com/vi_Throl"><img src="https://imgur.com/zGYTikF.png"></a>
 <a href="https://www.twitch.tv/dikdama"><img src="https://imgur.com/gVmbkc5.png"></a>
-<a href="https://www.mailto:vitorgmendes99@gmail.com"><img src="https://imgur.com/kIzW3hz.png"></a>
+<a href="mailto:vitorgmendes99@gmail.com"><img src="https://imgur.com/kIzW3hz.png"></a>
 <a href="https://www.codepen.com/r0t1vdev"><img src="https://imgur.com/TYEPxUR.png"></a>
 </p>
 
 <hr>
 <h3 align="center">😎 Masters</h3>
 <p align="center">
+
 </p>
 <!---
 r0t1v/r0t1v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
