@@ -46,12 +46,34 @@
 	<a href="#JavaScript"><img src="https://imgur.com/Xd6WVuB.png"></a>
 	<a href="#PHP"><img src="https://imgur.com/XcQs4Uh.png"></a>
 	<a href="#SQL"><img src="https://imgur.com/tsBqzoz.png"></a>
+	<a href="#Lua"><img src="https://imgur.com/dBJSq0i.png"></a>
 </p>
 
 <hr>
 <h3 align="center">✨ Experiências</h3>
 <p align="center">
-	
+	<a href="#Git"><img src="https://imgur.com/MTWuEt6.png"></a>
+	<a href="#Octave"><img src="https://imgur.com/lBvP28w.png"></a>
+	<a href="#GitLab"><img src="https://imgur.com/qxI7VB7.png"></a>
+	<a href="#NetBeans"><img src="https://imgur.com/BG7rzIT.png"></a>
+	<a href="#Eclipse"><img src="https://imgur.com/C5XDX71.png"></a>
+	<a href="#MatLab"><img src="https://imgur.com/JNo3f0n.png"></a>
+	<a href="#VisualStudio"><img src="https://imgur.com/fvT7XSg.png"></a>
+	<a href="#Xampp"><img src="https://imgur.com/iikndi4.png"></a>
+	<a href="#AzureDevOps"><img src="https://imgur.com/zRPHJrn.png"></a>
+	<a href="#Figma"><img src="https://imgur.com/ZSy8Xtp.png"></a>
+	<a href="#SublimeText"><img src="https://imgur.com/HiqO3aZ.png"></a>
+	<a href="#Insomnia"><img src="https://imgur.com/ZsGxr45.png"></a>
+	<a href="#MySQL"><img src="https://imgur.com/rVGfdqp.png"></a>
+	<a href="#MSSQL"><img src="https://imgur.com/PB2z8AV.png"></a>
+	<a href="#Bootstrap"><img src="https://imgur.com/FFmw06U.png"></a>
+	<a href="#jQuery"><img src="https://imgur.com/7t1oVo7.png"></a>
+	<a href="#Anaconda"><img src="https://imgur.com/bzWimzA.png"></a>
+	<a href="#repl-dot-it"><img src="https://imgur.com/ZahhSlY.png"></a>
+	<a href="#NPM"><img src="https://imgur.com/P2mgmgp.png"></a>
+	<a href="#NodeJS"><img src="https://imgur.com/s3MbC7m.png"></a>
+	<a href="#PyPI"><img src="https://imgur.com/MwgKrXY.png"></a>
+	<a href="#diagrams-dot-net"><img src="https://imgur.com/dWLhiJv.png"></a>
 </p>
 
 <p align="left">
@@ -101,12 +123,34 @@
 	<a href="#JavaScript"><img src="https://imgur.com/Xd6WVuB.png"></a>
 	<a href="#PHP"><img src="https://imgur.com/XcQs4Uh.png"></a>
 	<a href="#SQL"><img src="https://imgur.com/tsBqzoz.png"></a>
+	<a href="#Lua"><img src="https://imgur.com/dBJSq0i.png"></a>
 </p>
 
 <hr>
 <h3 align="center">✨ Experiences</h3>
 <p align="center">
-	
+	<a href="#Git"><img src="https://imgur.com/MTWuEt6.png"></a>
+	<a href="#Octave"><img src="https://imgur.com/lBvP28w.png"></a>
+	<a href="#GitLab"><img src="https://imgur.com/qxI7VB7.png"></a>
+	<a href="#NetBeans"><img src="https://imgur.com/BG7rzIT.png"></a>
+	<a href="#Eclipse"><img src="https://imgur.com/C5XDX71.png"></a>
+	<a href="#MatLab"><img src="https://imgur.com/JNo3f0n.png"></a>
+	<a href="#VisualStudio"><img src="https://imgur.com/fvT7XSg.png"></a>
+	<a href="#Xampp"><img src="https://imgur.com/iikndi4.png"></a>
+	<a href="#AzureDevOps"><img src="https://imgur.com/zRPHJrn.png"></a>
+	<a href="#Figma"><img src="https://imgur.com/ZSy8Xtp.png"></a>
+	<a href="#SublimeText"><img src="https://imgur.com/HiqO3aZ.png"></a>
+	<a href="#Insomnia"><img src="https://imgur.com/ZsGxr45.png"></a>
+	<a href="#MySQL"><img src="https://imgur.com/rVGfdqp.png"></a>
+	<a href="#MSSQL"><img src="https://imgur.com/PB2z8AV.png"></a>
+	<a href="#Bootstrap"><img src="https://imgur.com/FFmw06U.png"></a>
+	<a href="#jQuery"><img src="https://imgur.com/7t1oVo7.png"></a>
+	<a href="#Anaconda"><img src="https://imgur.com/bzWimzA.png"></a>
+	<a href="#repl-dot-it"><img src="https://imgur.com/ZahhSlY.png"></a>
+	<a href="#NPM"><img src="https://imgur.com/P2mgmgp.png"></a>
+	<a href="#NodeJS"><img src="https://imgur.com/s3MbC7m.png"></a>
+	<a href="#PyPI"><img src="https://imgur.com/MwgKrXY.png"></a>
+	<a href="#diagrams-dot-net"><img src="https://imgur.com/dWLhiJv.png"></a>
 </p>
 <!---
 r0t1v/r0t1v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
